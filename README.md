@@ -32,9 +32,6 @@ Let’s connect and create something remarkable together!
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh000999&theme=radical&hide_border=false)
 
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh000999&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh000999&layout=compact&theme=radical)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rakesh000999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
