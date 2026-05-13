@@ -28,13 +28,6 @@ Let’s connect and create something remarkable together!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh000999&theme=radical&hide_border=false)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rakesh000999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
